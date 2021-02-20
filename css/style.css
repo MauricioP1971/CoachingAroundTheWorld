@@ -1,4 +1,6 @@
 @import url(components/banner.css);
+@import url(components/leagues.css);
+@import url(components/teams.css);
 
 body {
   background-color: lightblue;

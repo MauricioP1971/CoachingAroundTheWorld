@@ -1,5 +1,10 @@
 .banner {
   background-size: cover;
   background-position: center;
+  align-items: center;
+  background-color: lightgrey;
+}
 
+.banner img {
+  width: 100%;
 }
