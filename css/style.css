@@ -1,7 +1,13 @@
 @import url(components/banner.css);
 @import url(components/leagues.css);
 @import url(components/teams.css);
+@import url(components/card.css);
 
 body {
   background-color: lightblue;
+}
+
+.leagues {
+  display: grid;
+  grid-template-columns: : 1fr 1fr 1fr;
 }
